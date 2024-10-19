@@ -28,3 +28,4 @@ E:\Dotnet\StudentApp\obj\Debug\net8.0\refint\StudentApp.dll
 E:\Dotnet\StudentApp\obj\Debug\net8.0\StudentApp.pdb
 E:\Dotnet\StudentApp\obj\Debug\net8.0\StudentApp.genruntimeconfig.cache
 E:\Dotnet\StudentApp\obj\Debug\net8.0\ref\StudentApp.dll
+E:\Dotnet\StudentApp\obj\Debug\net8.0\StudentApp.sourcelink.json
